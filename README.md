@@ -1,5 +1,5 @@
 
-# ✅ To-Do List Web App
+# ✅ PlanBoard
 
 A minimal and user-friendly To-Do List application built with **HTML, CSS, and JavaScript**. This app allows users to add, mark, and delete tasks, with data saved in the browser using **localStorage**.
 
